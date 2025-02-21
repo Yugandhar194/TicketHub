@@ -15,7 +15,7 @@
 ## 🛠️ Tech Stack
 ### **Frontend: 🎨**
 - ReactJS (UI Components, Hooks, State Management)
-- Bootstrap for responsive design
+- Bootstrap & Material UI for responsive design
 - Axios for API communication
 
 ### **Backend: 🧑🏻‍💻**
@@ -28,5 +28,3 @@
 -  **Password Encryption (BCrypt)**
 -  **Role-Based Authorization** (Admin, Customer, Theater Owner)
 -  **Secure Payment Processing** via Razorpay API
-
-🚀 **Star this repo** if you find it useful! Happy Coding! 🎬🍿
